@@ -75,7 +75,6 @@ header div a:hover{
 }
 
 #wrapper p a{
-    text-decoration: none;
     color: var(--color-green);;
 }
 
