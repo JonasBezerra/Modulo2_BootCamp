@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600;700;900&display=swap";
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
 *{
     margin:0;
     padding: 0;
@@ -61,8 +61,8 @@ header div a:hover{
 #wrapper p{
     max-width:500px;
      /*abaixo de 500px ele quebrar a linha. (O maximo é 1500). max-width substitui width, mas min-width substitui max-width*/
-     margin: 0 auto; /*(top,left,bottom, right)*/
-    margin
+     margin: 0 auto;  /* vertical | horizontal*/
+     /*margen auto. significa que o navegador vai margen para ele centralizar.*/
     
 }
 
