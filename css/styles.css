@@ -18,15 +18,36 @@ header div{/*Esse é um exemplo de modelo cascata do CSS*/
     text-align: center;
 }
 header div a{
-    font-size: 18px;
     color:white;
+    font-size: 18px;
     line-height: 28px; /*Esse é um espaçamento de texto diferentimente do padding*/
     margin: 0 16px; /* esse é um espaçamento entre os elementos*/
+    margin-bottom: 3px;
     text-decoration: none;
             
 }
 header div a:hover{
-    color:#000000;
+    color:#50fa7b;
     transition: color 500ms;
 }
-   
+
+#wrapper{
+    text-align: center;
+    padding: 32px; /*(left,top,right,bottom)*/
+}
+
+#wrapper img{
+    border-radius: 50%  ;/*(left,top,right,bottom)*/
+    border: 5px solid #50fa7b;
+    margin-bottom: 32px; 
+    width: 350px;
+    height: 350px;
+}
+
+#wrapper h1 {
+    font-size: 42px;
+    color: white;
+}
+
+
+
