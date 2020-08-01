@@ -60,7 +60,7 @@ header div a:hover{
 
 #wrapper p{
     max-width:500px; /*(O maximo é 1500)*/
-    margin: 0 auto
+    margin: 0 auto; /*(top e bottom, lados)*/
     
 }
 
