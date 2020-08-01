@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
 *{
     margin:0;
     padding: 0;
@@ -6,7 +7,7 @@
 }
 body{
     background: #282a36;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: white;
 }
         
@@ -30,6 +31,7 @@ header div a{
 header div a:hover{
     color:#50fa7b;
     transition: color 500ms;
+    
 }
 
 #wrapper{
@@ -51,7 +53,7 @@ header div a:hover{
     font-weight: bold;
 }
 #wrapper h2 {
-    font-size: 24px;
+    font-size: 21.333px;
     line-height: 34px;
     font-weight: normal;
     margin-top: 8px;
@@ -59,10 +61,13 @@ header div a:hover{
 }
 
 #wrapper p{
-    max-width:500px;
+    max-width:450px; 
      /*abaixo de 500px ele quebrar a linha. (O maximo é 1500). max-width substitui width, mas min-width substitui max-width*/
-     margin: 0 auto;  /* vertical | horizontal*/
+     margin: 32px auto;  /* vertical | horizontal*/
      /*margen auto. significa que o navegador vai margen para ele centralizar.*/
+     font-size: 21.333px;
+     line-height: 24px;
+     font-weight: 100
     
 }
 
