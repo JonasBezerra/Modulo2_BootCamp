@@ -47,8 +47,12 @@ header div a:hover{
 #wrapper h1 {
     font-size: 38px;
     color: white;
-    line-height: 52px;
+    line-height: 52px; /*Espaçamento interno do texto*/
     font-weight: bold;
+}
+#wrapper h2 {
+    color: white;
+
 }
 
 
