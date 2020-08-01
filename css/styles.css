@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background: #282a36;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+        
+header{
+    padding: 32px; /*ShortRend é sentido horário*/
+    border-bottom: 1px solid #333;
+    background: rgba(0, 0, 0, 0.1);
+}
+header div{/*Esse é um exemplo de modelo cascata do CSS*/
+    text-align: center;
+}
+header div a{
+    font-size: 18px;
+    color:white;
+    line-height: 28px; /*Esse é um espaçamento de texto diferentimente do padding*/
+    margin: 0 16px; /* esse é um espaçamento entre os elementos*/
+    text-decoration: none;
+            
+}
+header div a:hover{
+    color:#000000;
+    transition: color 500ms;
+}
+   
