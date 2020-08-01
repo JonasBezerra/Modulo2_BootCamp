@@ -7,6 +7,7 @@
 body{
     background: #282a36;
     font-family: 'Source Sans Pro', sans-serif;
+    color: white;
 }
         
 header{
@@ -40,19 +41,25 @@ header div a:hover{
     border-radius: 50%  ;/*(left,top,right,bottom)*/
     border: 5px solid #50fa7b;
     margin-bottom: 32px; 
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
 }
 
 #wrapper h1 {
-    font-size: 38px;
-    color: white;
+    font-size: 42px;
     line-height: 52px; /*Espaçamento interno do texto*/
     font-weight: bold;
 }
 #wrapper h2 {
-    color: white;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: normal;
+    margin-top: 8px;
+    opacity: 0.8;
+}
 
+#wrapper p{
+    width: 50px;
 }
 
 
