@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600;700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600;700;900&display=swap";
 *{
     margin:0;
     padding: 0;
@@ -6,7 +6,6 @@
 }
 body{
     background: #282a36;
-    background-attachment: scroll;
     font-family: 'Source Sans Pro', sans-serif;
 }
         
@@ -46,8 +45,10 @@ header div a:hover{
 }
 
 #wrapper h1 {
-    font-size: 42px;
+    font-size: 38px;
     color: white;
+    line-height: 52px;
+    font-weight: bold;
 }
 
 
