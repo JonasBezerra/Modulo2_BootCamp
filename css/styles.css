@@ -102,8 +102,9 @@ hr{
     max-width: 800px;
     margin: 0 auto;
     display: grid;
+    text-align: center;
     grid-template-columns: 1fr 1fr 1fr;
-    
+    gap: 10px; /*Espaçamento estre os elementos do grid*/
 }
 .card{
     background: var(--color-rocket);
