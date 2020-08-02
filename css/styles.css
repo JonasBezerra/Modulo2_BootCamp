@@ -140,7 +140,6 @@ hr{
     height: 100%;
     position: fixed; /*Ficado fixo conforme o navegador*/
     top: 0;
-    opacity: 0; /*Para sumir*/
     visibility: hidden;/*visibilidade escondida*/
 }
 .modal{
@@ -161,8 +160,7 @@ hr{
 
 /* ======= MODAL.active =======*/
 .modal-overlay.active{
-    opacity: 1;
-    visi
+    visibility: visible;
 }
 
 
