@@ -65,22 +65,32 @@ header{
 
 #wrapper p{
     max-width:500px; 
-     /*abaixo de 500px ele quebrar a linha. (O maximo é 1500). max-width substitui width, mas min-width substitui max-width*/
-     margin: 22px auto;  /* vertical | horizontal*/
-     /*margen auto. significa que o navegador vai margen para ele centralizar.*/
-     font-size:  21.333px;
-     line-height: 24px;/*espaçamento entre as linhas do texto*/
-     font-weight: 100
+    /*abaixo de 500px ele quebrar a linha. (O maximo é 1500). max-width substitui width, mas min-width substitui max-width*/
+    margin: 22px auto;  /* vertical | horizontal*/
+    /*margen auto. significa que o navegador vai margen para ele centralizar.*/
+    font-size:  21.333px;
+    line-height: 24px;/*espaçamento entre as linhas do texto*/
+    font-weight: 100
     
 }
 
 #wrapper p a{
     color: var(--color-green);;
 }
+ /*====== LINHA DE SEPARAÇÃO ENTRE FOOTER E A PÁGINA PRINCIPAL =====*/
+
+hr{
+    width: 200px; /*Largura*/
+    height: 2px;
+    background-color: var(--color-green);
+    margin: 20px auto;/*(top e bottom, right e left)*/ 
+    border: none;
+    
+}
 
 #links-footer a{
     border-bottom: 1px solid var(--color-green);
-  
+    
 }
 #links-footer{
     padding-bottom: 30px;
