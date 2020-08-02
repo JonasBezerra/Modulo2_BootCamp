@@ -80,13 +80,13 @@ header{
  /*====== LINHA DE SEPARAÇÃO ENTRE FOOTER E A PÁGINA PRINCIPAL =====*/
 
 hr{
-    width: 200px; /*Largura*/
+    width: 300px; /*Largura*/
     height: 2px;
     background-color: var(--color-green);
     margin: 20px auto;/*(top e bottom, right e left)*/ 
-    border: none;
-    
+    opacity: 0.5;
 }
+hr:
 
 #links-footer a{
     border-bottom: 1px solid var(--color-green);
