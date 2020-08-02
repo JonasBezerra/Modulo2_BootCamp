@@ -2,6 +2,7 @@
 
 :root {
     --color-green: #50fa7b;
+    --color-rocket: #7159c1;
 }
 *{
     margin:0;
@@ -100,9 +101,12 @@ hr{
 .cards{
     max-width: 800px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
 }
 .card{
-    background: #7159c1;
+    background: var(--color-rocket);
 }
 .card_image-container img{
     width: 100%; /*Agora a imagem vai respeitar o limite de largura do Pai*/
@@ -112,4 +116,19 @@ hr{
 .card_info {
     padding: 24px;
 }
+
+/*ABAIXO VAMOS VER UM POUCO SOBRE GRID LAYOUT*/
+.card_info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.card_price{
+    background: var(--color-rocket);/*não vai da para ver ainda pois é a mesma cor de fundo principal*/
+    filter: brightness(90%);/*Agora vamos mudar o brilho*/
+    padding: 5px 20px;/*(Vertical,Horizontal) no espaçamento interno*/
+    border-radius: 20px;
+    text-align: center;
+}
+
+
 
