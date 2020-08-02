@@ -95,4 +95,19 @@ hr{
     padding-bottom: 30px;
 }
 
+/* ========== CARDS ========*/
+
+.cards{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.card{
+    background-color: #7159c1;
+}
+.card_image-container img{
+    width: 100%; /*Agora a imagem vai respeitar o limite de largura do Pai*/
+}
+.card_content {
+    padding: 24px;
+}
 
