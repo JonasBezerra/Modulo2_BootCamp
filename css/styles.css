@@ -19,10 +19,11 @@ header{
     border-bottom: 1px solid #333;
     background: rgba(0, 0, 0, 0.1);
 }
-header div{/*Esse é um exemplo de modelo cascata do CSS*/
+.links{
     text-align: center;
 }
-header div a{
+
+.links a{
     color:white;
     font-size: 18px;
     line-height: 28px; /*Esse é um espaçamento de texto diferentimente do padding*/
@@ -31,7 +32,7 @@ header div a{
     text-decoration: none;
             
 }
-header div a:hover{
+.links a:hover{
     color: var(--color-green);
     transition: color 500ms;
     
@@ -45,8 +46,7 @@ header div a:hover{
 #wrapper img{
     border-radius: 50%  ;/*(left,top,right,bottom)*/
     border: 5px solid var(--color-green);
-    margin-bottom: 32px; 
-    width: 300px;
+    margin-bottom: 32px;  
     height: 300px;
 }
 
