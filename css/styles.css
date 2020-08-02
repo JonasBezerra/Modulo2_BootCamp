@@ -102,12 +102,14 @@ hr{
     margin: 0 auto;
 }
 .card{
-    background-color: #7159c1;
+    background: #7159c1;
 }
 .card_image-container img{
     width: 100%; /*Agora a imagem vai respeitar o limite de largura do Pai*/
+    /*O pai do img é o .cards Já que os outros abaixo não tem uma largura definida*/
 }
-.card_content {
+.card_content,
+.card_info {
     padding: 24px;
 }
 
