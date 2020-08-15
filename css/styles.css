@@ -78,6 +78,7 @@ header{
 #wrapper p a{
     color: var(--color-green);;
 }
+
  /*====== LINHA DE SEPARAÇÃO ENTRE FOOTER E A PÁGINA PRINCIPAL =====*/
 
 hr{
@@ -96,7 +97,7 @@ hr{
     padding-bottom: 30px;
 }
 
-/* ========== CARDS ========*/
+/* ========== CARDS DA PÁGINA AULAS========*/
 
 .cards{
     max-width: 800px;
@@ -140,6 +141,7 @@ hr{
     height: 100%;
     position: fixed; /*Ficado fixo conforme o navegador*/
     top: 0;
+    opacity: 0;
     visibility: hidden;/*visibilidade escondida*/
 }
 .modal{
@@ -160,7 +162,16 @@ hr{
 
 /* ======= MODAL.active =======*/
 .modal-overlay.active{
+    opacity: 1;
     visibility: visible;
 }
 
-
+iframe{
+    width:100%;
+    height: 90%;
+    position: absolute; /*
+    
+    agora ele obedeceu a 
+    padrão é o static*/
+    top: 5%;
+}
