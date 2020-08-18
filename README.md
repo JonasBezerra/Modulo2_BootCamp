@@ -4,9 +4,8 @@
 <!--INDICE-->
  
  # **Indice**
- <ul>
- <li><a href="#Sobre">Sobre</a></li>
-</ul>
+ - [Sobre](Sobre)
+ - [Tecnologias Utilizadas](Tecnologias-Utilizadas)
 
 <!--SOBRE O PROJETO-->
 <h2 align="center"><b>📋 Sobre:</b></h2>
@@ -21,17 +20,26 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <br>
 <br>
 <ul>
-    <li>
+    <li align="center">
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"><img src="https://img.shields.io/static/v1?label=HTML5&message=CONTEUDO&color=rgb(227,79,38)&style=solid&logo=HTML5" width="150px"></a>
     </li>
-    <li>
+    <li align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/static/v1?label=CSS3&message=ESTILOS&color=rgb(21,114,182)&style=solid&logo=CSS3" width="125px"></a>
     </li>
-    <li>
+    <li align="center">
         <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash#:~:text=%20Brincando%20com%20objetos%20do%20navegador%20%201,Agora%20digite%20o%20seguinte%3A%0AcampoPalpite.value%20%3D%20%27Ol%C3%A1%27%3B%0AA...%20More%20"><img src="https://img.shields.io/static/v1?label=JS&message=INTERACAO&color=rgb(247,223,30)&style=solid&logo=JavaScript" width="125px"></a>
     </li>
     
 </ul>
+
+<!--COMO CHEGAR ATÉ MIM-->
+
+<h2 align="center">Como Chegar até Mim</h2>
+  <p align="center"><a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
+  </img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></p>
+  
+
+<p align="center"><img width="380px" align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </img> </p>
 
 
  
