@@ -42,7 +42,7 @@
 <p align="center"><img width="380px" align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </p>
 
 
-<p align="center">Segue o link da Amostra do <a href="https://jonasbezerra.github.io/Personal_Site">site</a></p>
+<p align="center"><b>Segue o link da Amostra do <a href="https://jonasbezerra.github.io/Personal_Site">site</a></b></p>
 
 
  
