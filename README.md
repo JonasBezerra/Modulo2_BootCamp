@@ -3,14 +3,14 @@
 <br>
 <!--INDICE-->
  
-<h2 align="center"><b>Indice</b></h2>
+<h2 align="center">Indice</h2>
 
- - [Sobre](Sobre:)
+ - [Sobre](Sobre)
  - [Tecnologias Utilizadas](Tecnologias-Utilizadas)
  - [Como chegar até mim](Como-Chegar-ate-Mim)
 
 <!--SOBRE O PROJETO-->
-<h2 align="center"><b>📋 Sobre:</b></h2>
+<h2 align="center">📋 Sobre</h2>
 
 <p align=center>
     Aula prática da 2 fase do Launchbases para Introduzir as tecnologias de conteúdo para a Web, onde usamos <b>HTML, CSS e JavaScript</b> para a criação de um portifolio pessoal com o mestre <a href="https://github.com/maykbrito"><b>Mayk Brito</b> </a>. Instrutor e professor na <a href="https://github.com/rocketseat"><b>rocketseat</b></a>
@@ -18,7 +18,7 @@
 
 <!--TECNOLOGIAS USADAS -->
 
-<h2 align="center"><b>🚀 Tecnologias Utilizadas</b></h2>
+<h2 align="center">🚀 Tecnologias Utilizadas </h2>
 
 <p align="center">O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
