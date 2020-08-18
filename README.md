@@ -6,6 +6,7 @@
  # **Indice**
  - [Sobre](Sobre)
  - [Tecnologias Utilizadas](Tecnologias-Utilizadas)
+ - [Como chegar até mim](Como-chegar-ate-mim)
 
 <!--SOBRE O PROJETO-->
 <h2 align="center"><b>📋 Sobre:</b></h2>
@@ -38,7 +39,7 @@
 
 <!--COMO CHEGAR ATÉ MIM-->
 
-<h2 align="center">Como Chegar até Mim</h2>
+<h2 align="center"><b>Como Chegar até Mim</b></h2>
   <p align="center"><a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
   </img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></p>
   
