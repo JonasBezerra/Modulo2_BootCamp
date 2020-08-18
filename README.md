@@ -3,8 +3,9 @@
 <br>
 <!--INDICE-->
  
- # **Indice**
- - [Sobre](Sobre)
+<h2 align="center"><b>Indice</b></h2>
+
+ - [Sobre](Sobre:)
  - [Tecnologias Utilizadas](Tecnologias-Utilizadas)
  - [Como chegar até mim](Como-Chegar-ate-Mim)
 
