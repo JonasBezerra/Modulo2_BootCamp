@@ -5,7 +5,7 @@
  
  # **Indice**
  <ul>
- <li><a href="Sobre">Sobre</li>
+ <li><a href="#Sobre">Sobre</a></li>
 </ul>
 
 <!--SOBRE O PROJETO-->
