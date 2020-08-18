@@ -8,7 +8,7 @@
 <h2 align="center"><b>📋 Sobre:</b></h2>
 
 <p align=center>
-    Aula prática da 2 fase do Launchbases para     Introduzir as tecnologias de conteúdo para a Web, onde usamos <b>HTML, CSS e JavaScript</b> para a criação de um portifólio pessoal com o mestre <a href="https://github.com/maykbrito"><b>Mayk Brito</b> </a>. Instrutor e professor na <a href="https://github.com/rocketseat"><b>rocketseat</b></a>
+    Aula prática da 2 fase do Launchbases para Introduzir as tecnologias de conteúdo para a Web, onde usamos <b>HTML, CSS e JavaScript</b> para a criação de um portifólio pessoal com o mestre <a href="https://github.com/maykbrito"><b>Mayk Brito</b> </a>. Instrutor e professor na <a href="https://github.com/rocketseat"><b>rocketseat</b></a>
 </p>
 
 <!--TECNOLOGIAS USADAS -->
