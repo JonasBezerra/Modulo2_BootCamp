@@ -33,12 +33,13 @@
 
 <!--COMO CHEGAR ATÉ MIM-->
 
-<h2 align="center"><b>Como Chegar até Mim</b></h2>
+<h2 align="center">Como Chegar até Mim</h2>
+
   <p align="center"><a href="https://instagram.com/jonasbezerradasilva99"><img src="https://img.shields.io/static/v1?label=instagram&message=follow-me&color=rgb(228,64,95)&style=solid&logo=Instagram" width="160px"></img></a>
   </img></a> <a href="mailto:jonas.official2019@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=jonas.official2019@gmail.com&color=rgb(58,191,230)&style=solid&logo=Minutemailer" width="250px"></p>
   
 
-<p align="center"><img width="380px" align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </img> </p>
+<p align="center"><img width="380px" align="center" src="https://user-images.githubusercontent.com/67350258/90533964-2e10c500-e147-11ea-928f-68b4651cde0b.png"> </p>
 
 
 -  Segue o link da Amostra do [Site](https://jonasbezerra.github.io/Personal_Site/)
