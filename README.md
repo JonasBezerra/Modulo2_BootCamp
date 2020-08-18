@@ -15,13 +15,13 @@
 <h2 align="center"><b>Tecnologias Usadas:</b></h2><br>
 <ul>
     <li>
-        <img src="https://img.shields.io/static/v1?label=HTML5&message=CONTEUDO&color=rgb(227,79,38)&style=solid&logo=HTML5" width="130px">
+        <img src="https://img.shields.io/static/v1?label=HTML5&message=CONTEUDO&color=rgb(227,79,38)&style=solid&logo=HTML5" width="150px">
     </li>
     <li>
-        <img src="https://img.shields.io/static/v1?label=CSS3&message=ESTILOS&color=rgb(21,114,182)&style=solid&logo=CSS3" width="110px">
+        <img src="https://img.shields.io/static/v1?label=CSS3&message=ESTILOS&color=rgb(21,114,182)&style=solid&logo=CSS3" width="125px">
     </li>
     <li>
-        <img src="https://img.shields.io/static/v1?label=JS&message=INTERACAO&color=rgb(247,223,30)&style=solid&logo=JavaScript" width="105px">
+        <img src="https://img.shields.io/static/v1?label=JS&message=INTERACAO&color=rgb(247,223,30)&style=solid&logo=JavaScript" width="125px">
     </li>
     
 </ul>
