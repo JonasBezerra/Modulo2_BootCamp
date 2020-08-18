@@ -21,7 +21,7 @@
 <p align="center">O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
 <br>
-<br>
+
 
 <ul>
     <li align="center">
