@@ -15,10 +15,14 @@
 </p>
 
 <!--TECNOLOGIAS USADAS -->
+
 <h2 align="center"><b>🚀 Tecnologias Usadas</b></h2>
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+<p align="center">O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
+
 <br>
 <br>
+
 <ul>
     <li align="center">
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5"><img src="https://img.shields.io/static/v1?label=HTML5&message=CONTEUDO&color=rgb(227,79,38)&style=solid&logo=HTML5" width="150px"></a>
