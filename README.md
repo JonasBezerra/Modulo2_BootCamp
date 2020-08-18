@@ -6,8 +6,8 @@
 
 <!--SOBRE O PROJETO-->
 <h2 align="center"><b>Sobre:</b></h2>
-Exercício prático do Launchbase, onde foi dado a introdução em HTML, CSS e Javascript.
-<p>Foi criado um portfólio em HTML do instrutor <a href="https://github.com/maykbrito">Mayk Brito</a>, onde aplicamos estilizações com CSS e a interação com Javascript</p>
+<p align=center>Exercício prático do Launchbase, onde foi dado a introdução em HTML, CSS e Javascript. Com isso
+Foi criado um <b>portfólio</b> em HTML com o instrutor <a href="https://github.com/maykbrito">Mayk Brito</a>, onde aplicamos estilizações com CSS e a interação com Javascript</p>
 
 <!--TECNOLOGIAS USADAS -->
 <h2 align="center"><b>Tecnologias Usadas:</b></h2><br>
