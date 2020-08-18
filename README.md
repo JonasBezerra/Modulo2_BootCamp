@@ -4,8 +4,8 @@
 <!--INDICE-->
  
  # **Indice**
- - [Sobre](#-sobre:)
- - [Tecnologias Usadas](#-Tecnologias Usadas)
+ - [Sobre](#-sobre)
+ - [tecnologias usadas](#-tecnologias usadas)
 
 <!--SOBRE O PROJETO-->
 <h2 align="center"><b>📋 Sobre:</b></h2>
