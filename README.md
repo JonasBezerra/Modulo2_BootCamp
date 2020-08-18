@@ -6,7 +6,7 @@
  # **Indice**
  - [Sobre](Sobre)
  - [Tecnologias Utilizadas](Tecnologias-Utilizadas)
- - [Como chegar até mim](Como-chegar-ate-mim)
+ - [Como chegar até mim](Como-Chegar-ate-Mim)
 
 <!--SOBRE O PROJETO-->
 <h2 align="center"><b>📋 Sobre:</b></h2>
@@ -17,7 +17,7 @@
 
 <!--TECNOLOGIAS USADAS -->
 
-<h2 align="center"><b>🚀 Tecnologias Usadas</b></h2>
+<h2 align="center"><b>🚀 Tecnologias Utilizadas</b></h2>
 
 <p align="center">O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
