@@ -5,9 +5,8 @@
 
 
 <!--SOBRE O PROJETO-->
-<h2 align="center"><b>Sobre:</b></h2>
-<p align=center>Exercício prático do Launchbase, onde foi dado a introdução em HTML, CSS e Javascript. Com isso
-Foi criado um <b>portfólio</b> em HTML com o instrutor <a href="https://github.com/maykbrito">Mayk Brito</a>, onde aplicamos estilizações com CSS e a interação com Javascript</p>
+<h2 align="center"><b>📋 Sobre:</b></h2>
+<p align=center>Aula prática da 2 fase do Launchbases para Introduzir as tecnologias de conteúdo para a Web, onde usamos <b>HTML, CSS e JavaScript</b> para a criação de um portifólio pessoal com o mestre <a href="https://github.com/maykbrito">Mayk Brito</a>. Instrutor e professor na @rocketseat </p>
 
 <!--TECNOLOGIAS USADAS -->
 <h2 align="center"><b>Tecnologias Usadas:</b></h2><br>
